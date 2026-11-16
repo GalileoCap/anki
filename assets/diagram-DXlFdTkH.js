@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-COiEfhsA.js";import{a as t}from"./diagram-DUp947M6.js";import"./diagram-DI_UYJZ4.js";var n=e({createArchitectureServices:()=>t});export{n as t};
